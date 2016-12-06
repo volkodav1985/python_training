@@ -2,19 +2,9 @@
 
 from model.contact import Contact
 import pytest
-import random
-import string
-
-def random_string(prefix, maxlen):
-    symbols = string.ascii_letters + string.digits + string.punctuation + " "*10
-    return prefix + "".join([random.choice(symbols) for i in range(random.randrange(maxlen))])
+from data.add_contacts import constant as testdata
 
 
-
-testdata = [Contact(firstname="", lastname="", homephone="", mobilephone="", workphone="")] + [
-    Contact(firstname=random_string("firstname", 10),lastname=random_string("lastname", 20),homephone=("homephone", 20), mobilephone=("mobilephone",20),workphone=("workphone", 20),secondaryphone=("secondaryphone,20"))
-    for i in range(2)
-]
 
 
 
