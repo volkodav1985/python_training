@@ -2,7 +2,7 @@
 
 from model.contact import Contact
 import pytest
-from data.add_contacts import constant as testdata
+from data.add_contact import constant as testdata
 
 
 
