@@ -1,5 +1,6 @@
 [
   {
+    "py/object": "model.contact.Contact", 
     "workphone": "", 
     "mobilephone": "", 
     "firstname": "", 
@@ -10,98 +11,133 @@
     "homephone": ""
   }, 
   {
-    "workphone": [
-      "workphone", 
-      20
-    ], 
-    "mobilephone": [
-      "mobilephone", 
-      20
-    ], 
-    "firstname": "firstnameJe", 
-    "lastname": "lastnames CRS|m\"&2X73fV", 
+    "py/object": "model.contact.Contact", 
+    "workphone": {
+      "py/tuple": [
+        "workphone", 
+        20
+      ]
+    }, 
+    "mobilephone": {
+      "py/tuple": [
+        "mobilephone", 
+        20
+      ]
+    }, 
+    "firstname": "firstname+>q5XL`-", 
+    "lastname": "lastname{ C]ey>zAqe:7", 
     "secondaryphone": "secondaryphone,20", 
     "all_phones_from_home_page": null, 
     "id": null, 
-    "homephone": [
-      "homephone", 
-      20
-    ]
+    "homephone": {
+      "py/tuple": [
+        "homephone", 
+        20
+      ]
+    }
   }, 
   {
-    "workphone": [
-      "workphone", 
-      20
-    ], 
-    "mobilephone": [
-      "mobilephone", 
-      20
-    ], 
-    "firstname": "firstname ", 
-    "lastname": "lastnamedjk\"_Oq", 
+    "py/object": "model.contact.Contact", 
+    "workphone": {
+      "py/tuple": [
+        "workphone", 
+        20
+      ]
+    }, 
+    "mobilephone": {
+      "py/tuple": [
+        "mobilephone", 
+        20
+      ]
+    }, 
+    "firstname": "firstname!(o|( O", 
+    "lastname": "lastnameO", 
     "secondaryphone": "secondaryphone,20", 
     "all_phones_from_home_page": null, 
     "id": null, 
-    "homephone": [
-      "homephone", 
-      20
-    ]
+    "homephone": {
+      "py/tuple": [
+        "homephone", 
+        20
+      ]
+    }
   }, 
   {
-    "workphone": [
-      "workphone", 
-      20
-    ], 
-    "mobilephone": [
-      "mobilephone", 
-      20
-    ], 
-    "firstname": "firstnamez =", 
-    "lastname": "lastname cAxZ", 
+    "py/object": "model.contact.Contact", 
+    "workphone": {
+      "py/tuple": [
+        "workphone", 
+        20
+      ]
+    }, 
+    "mobilephone": {
+      "py/tuple": [
+        "mobilephone", 
+        20
+      ]
+    }, 
+    "firstname": "firstnameu^Y0s!EW", 
+    "lastname": "lastnameAZ!WBO", 
     "secondaryphone": "secondaryphone,20", 
     "all_phones_from_home_page": null, 
     "id": null, 
-    "homephone": [
-      "homephone", 
-      20
-    ]
+    "homephone": {
+      "py/tuple": [
+        "homephone", 
+        20
+      ]
+    }
   }, 
   {
-    "workphone": [
-      "workphone", 
-      20
-    ], 
-    "mobilephone": [
-      "mobilephone", 
-      20
-    ], 
-    "firstname": "firstnameqa -YhM", 
-    "lastname": "lastname-YsMQCo 0{=Z.Q kkd ", 
+    "py/object": "model.contact.Contact", 
+    "workphone": {
+      "py/tuple": [
+        "workphone", 
+        20
+      ]
+    }, 
+    "mobilephone": {
+      "py/tuple": [
+        "mobilephone", 
+        20
+      ]
+    }, 
+    "firstname": "firstnameL`XU{", 
+    "lastname": "lastname/", 
     "secondaryphone": "secondaryphone,20", 
     "all_phones_from_home_page": null, 
     "id": null, 
-    "homephone": [
-      "homephone", 
-      20
-    ]
+    "homephone": {
+      "py/tuple": [
+        "homephone", 
+        20
+      ]
+    }
   }, 
   {
-    "workphone": [
-      "workphone", 
-      20
-    ], 
-    "mobilephone": [
-      "mobilephone", 
-      20
-    ], 
-    "firstname": "firstname;", 
-    "lastname": "lastname3", 
+    "py/object": "model.contact.Contact", 
+    "workphone": {
+      "py/tuple": [
+        "workphone", 
+        20
+      ]
+    }, 
+    "mobilephone": {
+      "py/tuple": [
+        "mobilephone", 
+        20
+      ]
+    }, 
+    "firstname": "firstnamer", 
+    "lastname": "lastname'8B+#b^/yz>XR1abf", 
     "secondaryphone": "secondaryphone,20", 
     "all_phones_from_home_page": null, 
     "id": null, 
-    "homephone": [
-      "homephone", 
-      20
-    ]
+    "homephone": {
+      "py/tuple": [
+        "homephone", 
+        20
+      ]
+    }
   }
 ]
